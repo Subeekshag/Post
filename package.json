@@ -1,18 +1,26 @@
 {
-    "name": "post",
-    "version": "1.0.0",
-    "description": "api",
-    "main": "server.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "nodemon server.js"
-    },
-    "author": "ShreeSubeekshaG",
-    "license": "ISC",
-    "dependencies": {
-      "body-parser": "^1.19.0",
-      "express": "^4.17.1",
-      "mongoose": "^6.0.8",
-      "nodemon": "^2.0.13"
-    }
-  }
+  "name": "post",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "ShreeSubeekshaG",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "nodemon": "^2.0.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subeekshag/Post.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Subeekshag/Post/issues"
+  },
+  "homepage": "https://github.com/Subeekshag/Post#readme"
+}
